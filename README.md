@@ -1,6 +1,10 @@
 # bulk_resumes
 python scripts to help manage bulk pdf and docx resumes
 
+-- pre-processing
+
+0. remove duplicate files, if you download the file twice
+
 -- remove design, errors, and only manage data in txt files
 
 1. turn pdf files into txt
