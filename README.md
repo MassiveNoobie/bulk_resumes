@@ -10,7 +10,11 @@ python scripts to help manage bulk pdf and docx resumes
 1. turn pdf files into txt
 2. turn docx files into txt
 
--- NLP, Word Usage
+-- NLP, Word Usage w/ csv outputs
 
 3. tuh monthers - file name, file size, sentiment, POS/NER, word, count of words
 4. tiny critter - file name, word, count of words
+
+-- visualize
+
+5. plugin csv files into visualization software
