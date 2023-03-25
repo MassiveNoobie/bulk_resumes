@@ -16,6 +16,7 @@ https://github.com/MassiveNoobie/bulk_resumes/blob/main/delete_dupe_resumes.py
 -- NLP, Word Usage w/ csv outputs
 
 3. tuh monthers . py - file name, file size, sentiment, POS/NER, word, count of words
+
 https://github.com/MassiveNoobie/bulk_resumes/blob/main/tuh_monster.py
   -  Find POS and NER terms will automatically skip punctuations, dates, and numbers
   -  Labeling if the word/term is a POS (part of speech) or NER (named entity recognition) then occurences
