@@ -1,4 +1,4 @@
-# bulk_resumes with simple inputs and outputs so analysts of any level
+# bulk_resumes with simple inputs and outputs, for data analysts
 python scripts to help manage bulk pdf and docx resumes
 
 -- pre-processing
